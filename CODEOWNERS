@@ -23,9 +23,9 @@
 # subdirectories.
 /MobileApps/ @nianton
 /apis/userprofile/ @nianton
-/apis/poi/ @nianton
-/apis/user-data/ @nianton
-/apis/trips/ @nianton
+/apis/poi/ @thotheod
+/apis/user-data/ @thotheod
+/apis/trips/ @thotheod
 
 # The `docs/*` pattern will match files like
 # `docs/getting-started.md` but not further nested files like
